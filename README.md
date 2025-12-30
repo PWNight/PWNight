@@ -1,7 +1,6 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<div>
 <img src="https://github-readme-stats-fast.vercel.app/api?username=PWNight&show_icons=true&theme=radical&locale=ru">
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=PWNight&theme=radical&locale=ru">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PWNight&layout=compact&theme=radical&locale=ru">
 </div>
 
 ###
