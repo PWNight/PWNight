@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=PWNight&show_icons=true&theme=radical&locale=ru">
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=PWNight&theme=radical&locale=ru">
 </div>
